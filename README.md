@@ -1,2 +1,2 @@
 # Bank_Simul
- Bank Simulation project
+ Bank Simulation  OAMK project
